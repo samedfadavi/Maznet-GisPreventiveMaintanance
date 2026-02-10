@@ -1,6 +1,6 @@
 🛠️ Enterprise-Scale GIS-Based Preventive Maintenance System
 <p align="center">
-  <img src="https://github.com/samedfadavi/PmServiceNetCore/blob/master/asseets/images/dima1page.jpg" width="800" />
+  <img src="https://github.com/samedfadavi/PmServiceNetCore/blob/master/asseets/images/pm3.jpg" width="800" />
 </p>
 A scalable, data-driven Preventive Maintenance Management System (PMMS) designed for large-scale, network-based industries such as power utilities ⚡
 The system combines microservices architecture, GIS intelligence 🗺️, and enterprise-grade integrations to support efficient, secure, and reliable maintenance operations across distributed infrastructures.
